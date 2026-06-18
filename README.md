@@ -23,5 +23,11 @@ the script calculates the angle of the object in front of the ultrasonic sensors
 
 # BOM
 
+* arduino nano
+* usb c lithuim battery charger module TP4056
+* MG 996R servo motor
+* 330mah lithium battery
+* US-100 ultrasonic distance sensors (or parallax ping but i just found out theyre impossible to buy for a reasonable price)
+* jumper wires
 # How to build:
 
