@@ -11,10 +11,11 @@ i got the inspiration from when i went to a friends house and he mentioned that 
 <img width="1267" height="775" alt="image" src="https://github.com/user-attachments/assets/eedd6e21-3b48-432b-9c10-6b4559f3cdc3" />
 
 # 3D model
-
+the knob turns to either tighten the two bars or push them away so that you can fix whatever you want between them
 <img width="957" height="782" alt="image" src="https://github.com/user-attachments/assets/63801c68-e17f-4ff7-8c05-f65712b225bf" />
 <img width="871" height="737" alt="image" src="https://github.com/user-attachments/assets/5cb68fcd-7af4-495c-8e45-f787b8568295" />
 <img width="837" height="737" alt="image" src="https://github.com/user-attachments/assets/f663d23d-46a3-4064-94c9-3a495e932519" />
+the servo motor and arduino etc are mounted to the bottom piece and the two ultrasonic distance sensors are mounted to the top piece
 <img width="657" height="658" alt="image" src="https://github.com/user-attachments/assets/dbcbd77f-d976-41fb-9e33-af17ffd2cc11" />
 
 # firmware
@@ -33,3 +34,4 @@ the script calculates the angle of the object in front of the ultrasonic sensors
 * jumper wires
 # How to build:
 
+For screws and similar items, it is recommended to find the cheapest in your location. first 3d print all the parts in the cad folder except for the assembly then press fit the two sliding parts on the main body, then put the turning cog between the sliding parts, then screw the knob and the stopper on the turning part, then screw in place the servo and the arduino and the ultrasonic sensor then press fit the lithium battery and the charging module on the bottom part, then solder the wires between the components and place the top part on the bottom part in a way that makes it so that the servo fits into place
