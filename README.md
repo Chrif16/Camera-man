@@ -7,7 +7,7 @@ i got the inspiration from when i went to a friends house and he mentioned that 
 <img width="1060" height="817" alt="image" src="https://github.com/user-attachments/assets/f094f926-245c-4e4b-9990-db4085fe1521" />
 
 # Schematics
-
+the micro controller used is an arduino nano and the project moves with a servo motor and the two sensors are a parallax ping a 3 pin ultrasonic sensor and the battery powers everything and its charged with the tp4056 charging module 
 <img width="1267" height="775" alt="image" src="https://github.com/user-attachments/assets/eedd6e21-3b48-432b-9c10-6b4559f3cdc3" />
 
 # 3D model
