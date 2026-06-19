@@ -35,3 +35,6 @@ the script calculates the angle of the object in front of the ultrasonic sensors
 # How to build:
 
 For screws and similar items, it is recommended to find the cheapest in your location. first 3d print all the parts in the cad folder except for the assembly then press fit the two sliding parts on the main body, then put the turning cog between the sliding parts, then screw the knob and the stopper on the turning part, then screw in place the servo and the arduino and the ultrasonic sensor then press fit the lithium battery and the charging module on the bottom part, then solder the wires between the components and place the top part on the bottom part in a way that makes it so that the servo fits into place
+
+# Zine
+
