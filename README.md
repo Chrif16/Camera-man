@@ -38,3 +38,4 @@ For screws and similar items, it is recommended to find the cheapest in your loc
 
 # Zine
 
+<img width="3508" height="4960" alt="fcvghbj" src="https://github.com/user-attachments/assets/810f0e73-3509-46a5-a2b3-91a1cda40c38" />
